@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Georgiy
 
 <!--
 **geranazavr555/geranazavr555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a third-year applied mathematics and computer science student at <a href="https://en.wikipedia.org/wiki/ITMO_University">ITMO University</a> and a software developer at <a href="https://en.wikipedia.org/wiki/Codeforces">Codeforces</a>.
